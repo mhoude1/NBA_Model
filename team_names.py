@@ -2,10 +2,10 @@
 
 teams = {
         "Atlanta Hawks": 1610612737,
-        "Boston Celtics":1610612738,
+        "Boston Celtics": 1610612738,
         "Brooklyn Nets": 1610612751,
-        "Charlotte Hornets": 1610612766,
         "Charlotte Bobcats": 1610612766,
+        "Charlotte Hornets": 1610612766,
         "Chicago Bulls": 1610612741,
         "Cleveland Cavaliers": 1610612739,
         "Dallas Mavericks": 1610612742,

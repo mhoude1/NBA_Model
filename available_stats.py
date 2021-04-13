@@ -1,0 +1,13 @@
+available_stats = {'W_PCT': 'Base',
+                   'FG_PCT': 'Base',
+                   'FG3_PCT': 'Base',
+                   'FT_PCT': 'Base',
+                   'REB': 'Base',
+                   'AST': 'Base',
+                   'TOV': 'Base',
+                   'STL': 'Base',
+                   'BLK': 'Base',
+                   'PLUS_MINUS': 'Base',
+                   'OFF_RATING': 'Advanced',
+                   'DEF_RATING': 'Advanced',
+                   'TS_PCT': 'Advanced'}
